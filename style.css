@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: rgb(173, 206, 95);
+}
+
+#section {
+    position: relative;
+    width: 500px;
+    height: 500px;
+    margin: 0;
+}
+
+#electClock {
+    position: absolute;
+    left: 180px;
+    top: 150px;
+    font-size: 33px;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+}
